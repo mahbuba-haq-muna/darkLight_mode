@@ -1,0 +1,19 @@
+.btn{
+    background: #BFACE2;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.lightmode{
+    background: #F7EFE5;
+    padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.darkmode{
+    background: #03001C;
+    padding: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: beige;
+}
